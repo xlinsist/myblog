@@ -1,3 +1,3 @@
 - 介绍
-    - [介绍](article/intro.md)
-    - [1](article/diary/peaceful.md)
+    - [目标](target.md)
+    - [介绍](intro.md)

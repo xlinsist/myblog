@@ -2,4 +2,4 @@
 
 > An awesome project.
 
-**link: Gitee Pages service is open, url: http://xlinsist.gitee.io/myblog**
+**link: Gitee Pages service is open, url: https://xlinsist.github.io/myblog/**
